@@ -1,4 +1,4 @@
-# Dijkstra
+#  A* Pathfinder
 
 Il s'agit d'un projet réalisé dans le cadre d'un examen universitaire.
 
